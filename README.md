@@ -2,10 +2,11 @@
 
 <br>
 
-- 🌱 I am a PhD student in Xiamen University, China.
-- 🔭 I am interested in simulating electrochemical interfaces.
+- 🎓 I am a PhD student in Xiamen University, China.
+- 🖥️ I am a chemist working with computer rather than test tubes.
+- ⚛️ I am interested in **simulating electrochemical interfaces**.
 - 💬 You can find more info about me in my [homepage](https://chiahsinchu.github.io).
-- 📫 You can reach me via e-mail `jiaxinzhu@xmu.edu.stu.cn`.
+- 📧 You can reach me via e-mail `jiaxinzhu@xmu.edu.stu.cn`.
 
 Cheers! 😄
 
