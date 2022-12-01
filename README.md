@@ -18,7 +18,7 @@ Cheers! 😄
 
 **College of Chemistry and Chemical Engineering, Xiamen University, China**
 
-**Address:** 422 Siming South Street, Xiamen, Fujian Province, China 
+**Address:** 422 Siming South Road, Xiamen, Fujian Province, China 
 
 **Email:** jiaxinzhu@stu.xmu.edu.cn
 
