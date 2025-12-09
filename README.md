@@ -2,25 +2,15 @@
 
 <br>
 
-- 🎓 I am a PhD student in Xiamen University, China.
+- 🎓 I am a Postdoc in Forschungszentrum Jülich, Germany.
 - 🖥️ I am a chemist working with computer rather than test tubes.
 - ⚛️ I am interested in **simulating electrochemical interfaces**.
 - 💬 You can find more info about me in my [homepage](https://chiahsinchu.github.io).
-- 📧 You can reach me via e-mail `jiaxinzhu@xmu.edu.stu.cn`.
+- 📧 You can reach me via e-mail `xmuchiahsin@gmail.com`.
 
 Cheers! 😄
 
 ---
-
-# **Zhu, Jia-Xin 朱嘉欣**
-
-**Ph.D. Candidate**
-
-**College of Chemistry and Chemical Engineering, Xiamen University, China**
-
-**Address:** 422 Siming South Road, Xiamen, Fujian Province, China 
-
-**Email:** jiaxinzhu@stu.xmu.edu.cn
 
 **ORCID:** [https://orcid.org/0000-0002-3471-4728](https://orcid.org/0000-0002-3471-4728)
 
