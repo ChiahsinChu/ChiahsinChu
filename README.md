@@ -2,11 +2,11 @@
 
 <br>
 
-- 🎓 I am a Postdoc in Forschungszentrum Jülich, Germany.
-- 🖥️ I am a chemist working with computer rather than test tubes.
+- 🎓 I am a Postdoc at Jülich Forschungszentrum, Germany.
+- 🖥️ I am a chemist working with computers rather than test tubes.
 - ⚛️ I am interested in **simulating electrochemical interfaces**.
 - 💬 You can find more info about me in my [homepage](https://chiahsinchu.github.io).
-- 📧 You can reach me via e-mail `xmuchiahsin@gmail.com`.
+- 📧 You can reach me via e-mail `j.zhu@fz-juelich.de`.
 
 Cheers! 😄
 
